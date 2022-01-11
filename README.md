@@ -1,7 +1,7 @@
 ![meganbmartinez-banner](https://user-images.githubusercontent.com/6316645/148883797-87cf7933-035c-4d3c-8dba-8c587faafb48.jpg)
 
 ## About Me:
-I am a front-end web developer! 
+My name is Megan and 
 
 
 ## GitHub Stats :trophy:
