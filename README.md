@@ -3,7 +3,7 @@
 # Nice to meet you!
 
 ## About Me:
-My name is Megan and 
+My name is Megan and I am currently attending an accelerated full-immersion web development boot camp at LearningFuze.
 
 
 ## GitHub Stats :trophy:
