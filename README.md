@@ -7,9 +7,8 @@ Ever since writing my first program in C++ and manipulating it to produce a desi
 
 
 ## GitHub Stats :trophy:
- [![Megan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meganbmartinez)](https://github.com/meganbmartinez/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meganbmartinez)](https://github.com/meganbmartinez/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/meganbmartinez?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 
 ## Technologies & Tools
