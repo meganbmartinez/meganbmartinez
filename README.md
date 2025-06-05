@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://github.com/megbritt/megbritt/blob/main/assets/%E7%B4%AB%E3%81%AE%E7%A9%BA.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=CF9FFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=こんにちは。;私のGitHubにようこそ～！" width="70%" />
 <br><br>
 <pre>
     💼 BSC @ UCR • Full-stack Dev • Video game dev & designer
